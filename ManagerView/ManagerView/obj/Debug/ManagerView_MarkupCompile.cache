@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\App.xaml
-2-114757256
+3-2019911002
 
-6-932607655
+7-1945074259
 14-1001767708
-GameWindow.xaml;MainWindow.xaml;
+Resources\GameWindow.xaml;MainWindow.xaml;RegistartionWindow.xaml;
 
 False
 

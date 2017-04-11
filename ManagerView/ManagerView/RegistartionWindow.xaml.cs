@@ -10,25 +10,24 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace ManagerView
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for RegistartionWindow1.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class RegistartionWindow : Window
     {
-        public MainWindow()
+        public RegistartionWindow()
         {
             InitializeComponent();
         }
 
-        private void Start_Click(object sender, RoutedEventArgs e)
+        private void StartGame_Click(object sender, RoutedEventArgs e)
         {
-            RegistartionWindow window = new RegistartionWindow();
-            window.Show();
+            GameWindow win = new GameWindow();
+            win.Show();
         }
     }
 }

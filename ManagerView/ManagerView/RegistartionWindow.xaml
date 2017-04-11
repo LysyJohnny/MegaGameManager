@@ -1,0 +1,59 @@
+﻿<Window x:Class="ManagerView.RegistartionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ManagerView"
+        mc:Ignorable="d"
+        Title="RegistartionWindow1" Height="300" Width="300">
+    <Grid Margin="0,0,0,-5">
+
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+
+        <Button Name="StartGame" Height="50" Click="StartGame_Click" Grid.Row="5" Margin="74,75,72,-104" Grid.ColumnSpan="2"   >
+            <TextBox Text="Поехали">
+            </TextBox>
+        </Button>
+
+        <TextBox Name="Player1" Grid.Column="0" Grid.Row="0" Text="Игрок 1">
+        </TextBox>
+        <TextBox Name="Player2" Grid.Column="0" Grid.Row="1" Text="Игрок 1">
+        </TextBox>
+        <TextBox Name="Player3" Grid.Column="0" Grid.Row="2" Text="Игрок 1">
+        </TextBox>
+        <TextBox Name="Player4" Grid.Column="0" Grid.Row="3" Text="Игрок 1">
+        </TextBox>
+        <TextBox Name="Player5" Grid.Column="0" Grid.Row="4" Text="Игрок 1">
+        </TextBox>
+        <TextBox Name="Player6" Grid.Column="0" Grid.Row="5" Text="Игрок 1">
+        </TextBox>
+        
+        <TextBox Name="NamePlayer1" Grid.Column="1" Grid.Row="0" >
+        </TextBox>
+        <TextBox Name="NamePlayer2" Grid.Column="1" Grid.Row="1" >
+        </TextBox>
+        <TextBox Name="NamePlayer3" Grid.Column="1" Grid.Row="2" >
+        </TextBox>
+        <TextBox Name="NamePlayer4" Grid.Column="1" Grid.Row="3" >
+        </TextBox>
+        <TextBox Name="NamePlayer5" Grid.Column="1" Grid.Row="4" >
+        </TextBox>
+        <TextBox Name="NamePlayer6" Grid.Column="1" Grid.Row="5" >
+        </TextBox>
+    </Grid>
+</Window>
