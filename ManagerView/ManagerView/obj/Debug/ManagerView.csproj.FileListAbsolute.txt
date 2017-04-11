@@ -1,0 +1,15 @@
+C:\Users\dell\Desktop\1\ManagerView\ManagerView\obj\Debug\ManagerView.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\1\ManagerView\ManagerView\obj\Debug\GameWindow.g.cs
+C:\Users\dell\Desktop\1\ManagerView\ManagerView\obj\Debug\MainWindow.g.cs
+C:\Users\dell\Desktop\1\ManagerView\ManagerView\obj\Debug\App.g.cs
+C:\Users\dell\Desktop\1\ManagerView\ManagerView\obj\Debug\ManagerView_MarkupCompile.cache
+C:\Users\dell\Desktop\1\ManagerView\ManagerView\obj\Debug\ManagerView_MarkupCompile.lref
+C:\Users\dell\Desktop\1\ManagerView\ManagerView\bin\Debug\ManagerView.exe
+C:\Users\dell\Desktop\1\ManagerView\ManagerView\bin\Debug\ManagerView.pdb
+C:\Users\dell\Desktop\1\ManagerView\ManagerView\obj\Debug\GameWindow.baml
+C:\Users\dell\Desktop\1\ManagerView\ManagerView\obj\Debug\MainWindow.baml
+C:\Users\dell\Desktop\1\ManagerView\ManagerView\obj\Debug\ManagerView.g.resources
+C:\Users\dell\Desktop\1\ManagerView\ManagerView\obj\Debug\ManagerView.Properties.Resources.resources
+C:\Users\dell\Desktop\1\ManagerView\ManagerView\obj\Debug\ManagerView.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\1\ManagerView\ManagerView\obj\Debug\ManagerView.exe
+C:\Users\dell\Desktop\1\ManagerView\ManagerView\obj\Debug\ManagerView.pdb
