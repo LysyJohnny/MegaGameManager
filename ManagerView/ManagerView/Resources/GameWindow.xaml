@@ -37,12 +37,12 @@
         </Button>
 
         <Button Name="Bershka" Grid.Column="0" Grid.Row="5" Grid.ColumnSpan="2" Margin="0,0,100,100" Grid.RowSpan="2">
-             <Button.Background>
+            <Button.Background>
                 <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\4.jpeg"/>
-                
+
             </Button.Background>
-                 
- <Button.ToolTip>
+
+            <Button.ToolTip>
                 <ToolTip Height="200" Width="200">
                     <TextBox TextWrapping="Wrap"
                              Text="Стоимость МАГАЗИНА ОДЕЖДЫ BERSHKA составляет 2200 рублей.
@@ -52,7 +52,7 @@
                 </ToolTip>
             </Button.ToolTip>
 
-          
+
 
         </Button>
 
@@ -119,7 +119,7 @@
                     </TextBox>
                 </ToolTip>
             </Button.ToolTip>
-            
+
             <Button.Background>
                 <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\shtraf.jpg"/>
 
@@ -174,7 +174,7 @@
                     </TextBox>
                 </ToolTip>
             </Button.ToolTip>
-            
+
             <Button.Background>
                 <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\8.jpg"/>
 
@@ -384,6 +384,17 @@
 
 
         </Button>
+        <Button x:Name="button"  HorizontalAlignment="Left" Margin="-131,74,0,0" Grid.Row="3" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.504,1.136" Height="59" Grid.RowSpan="2" Click="button_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.288"/>
+                    <TranslateTransform X="0.188" Y="-0.002"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        
 
     </Grid>
 </Window>

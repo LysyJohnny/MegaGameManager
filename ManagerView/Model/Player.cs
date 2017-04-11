@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 
+
+
 namespace Model
 {
     public class Player
@@ -12,6 +14,7 @@ namespace Model
         public string Name { get; set; }
         public int Money { get; set; }
         public List<Building> Buildings { get; set; }
+        
         // фишка отдельный класс или фишка-свойство 
     }
 }

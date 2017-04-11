@@ -23,5 +23,12 @@ namespace ManagerView
         {
             InitializeComponent();
         }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            
+            Random Go = new Random() ;
+            Go.Next(0,7);
+        }
     }
 }
