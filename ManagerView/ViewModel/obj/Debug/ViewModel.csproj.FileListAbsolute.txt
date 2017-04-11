@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\bin\Debug\Model.dll
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\bin\Debug\Model.pdb
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\obj\Debug\ViewModel.pdb

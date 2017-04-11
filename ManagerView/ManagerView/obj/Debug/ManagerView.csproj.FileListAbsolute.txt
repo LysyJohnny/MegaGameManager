@@ -30,3 +30,7 @@ C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\obj\Debug\Resour
 C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\obj\Debug\RegistartionWindow.g.cs
 C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\obj\Debug\Resources\GameWindow.baml
 C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\obj\Debug\RegistartionWindow.baml
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\bin\Debug\Model.dll
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\bin\Debug\ViewModel.dll
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\bin\Debug\Model.pdb
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\bin\Debug\ViewModel.pdb

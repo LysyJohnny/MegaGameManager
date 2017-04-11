@@ -29,6 +29,7 @@ namespace ManagerView
         {
             RegistartionWindow window = new RegistartionWindow();
             window.Show();
+            Close();
         }
     }
 }

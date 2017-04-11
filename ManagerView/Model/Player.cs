@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.;
+
 
 namespace Model
 {
@@ -11,6 +11,7 @@ namespace Model
     {
         public string Name { get; set; }
         public int Money { get; set; }
-        // коллекция предприятий и фишка
+        public List<Building> Buildings { get; set; }
+        // фишка отдельный класс или фишка-свойство 
     }
 }
