@@ -30,3 +30,5 @@ C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\obj\Debug\Resour
 C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\obj\Debug\RegistartionWindow.g.cs
 C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\obj\Debug\Resources\GameWindow.baml
 C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\obj\Debug\RegistartionWindow.baml
+E:\Git hub project\MegaGameManager\ManagerView\ManagerView\obj\Debug\ManagerView.exe
+E:\Git hub project\MegaGameManager\ManagerView\ManagerView\obj\Debug\ManagerView.pdb
