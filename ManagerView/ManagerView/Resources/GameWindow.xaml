@@ -29,7 +29,7 @@
         </Grid.RowDefinitions>
         <Button Name="Старт" Grid.Column="0" Grid.Row="6" Margin="-1,1,100,-8" Grid.ColumnSpan="2">
             <Button.Background>
-                <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\start.png" ></ImageBrush>
+                <ImageBrush ImageSource="start.png" ></ImageBrush>
             </Button.Background>
 
 
@@ -38,7 +38,7 @@
 
         <Button Name="Bershka" Grid.Column="0" Grid.Row="5" Grid.ColumnSpan="2" Margin="0,0,100,100" Grid.RowSpan="2">
             <Button.Background>
-                <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\4.jpeg"/>
+                <ImageBrush ImageSource="4.jpeg"/>
 
             </Button.Background>
 
@@ -67,7 +67,7 @@
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
-                <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\3.jpg" ></ImageBrush>
+                <ImageBrush ImageSource="3.jpg" ></ImageBrush>
             </Button.Background>
 
 
@@ -85,7 +85,7 @@
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
-                <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\19.jpeg"/>
+                <ImageBrush ImageSource="19.jpeg"/>
 
             </Button.Background>
 
@@ -104,7 +104,7 @@
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
-                <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\1.jpeg"/>
+                <ImageBrush ImageSource="1.jpeg"/>
 
             </Button.Background>
 
@@ -121,7 +121,7 @@
             </Button.ToolTip>
 
             <Button.Background>
-                <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\shtraf.jpg"/>
+                <ImageBrush ImageSource="shtraf.jpg"/>
 
             </Button.Background>
 
@@ -139,7 +139,7 @@
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
-                <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\colizei.jpg"/>
+                <ImageBrush ImageSource="colizei.jpg"/>
 
             </Button.Background>
 
@@ -157,7 +157,7 @@
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
-                <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\6.jpg"/>
+                <ImageBrush ImageSource="6.jpg"/>
 
             </Button.Background>
 
@@ -176,7 +176,7 @@
             </Button.ToolTip>
 
             <Button.Background>
-                <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\8.jpg"/>
+                <ImageBrush ImageSource="8.jpg"/>
 
             </Button.Background>
 
@@ -194,7 +194,7 @@
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
-                <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\11.jpeg"/>
+                <ImageBrush ImageSource="11.jpeg"/>
 
             </Button.Background>
 
@@ -210,7 +210,7 @@
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
-                <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\premia.jpg"/>
+                <ImageBrush ImageSource="premia.jpg"/>
 
             </Button.Background>
 
@@ -229,7 +229,7 @@
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
-                <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\9.jpeg"/>
+                <ImageBrush ImageSource="9.jpeg"/>
 
             </Button.Background>
 
@@ -247,7 +247,7 @@
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
-                <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\12.jpeg"/>
+                <ImageBrush ImageSource="12.jpeg"/>
 
             </Button.Background>
 
@@ -266,7 +266,7 @@
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
-                <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\13.jpeg"/>
+                <ImageBrush ImageSource="13.jpeg"/>
 
             </Button.Background>
 
@@ -284,7 +284,7 @@
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
-                <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\14.jpeg"/>
+                <ImageBrush ImageSource="14.jpeg"/>
 
             </Button.Background>
 
@@ -301,7 +301,7 @@
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
-                <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\shtraf.jpg"/>
+                <ImageBrush ImageSource="shtraf.jpg"/>
 
             </Button.Background>
 
@@ -321,7 +321,7 @@
             </Button.ToolTip>
 
             <Button.Background>
-                <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\16.jpeg"/>
+                <ImageBrush ImageSource="16.jpeg"/>
 
             </Button.Background>
 
@@ -341,7 +341,7 @@
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
-                <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\17.jpeg"/>
+                <ImageBrush ImageSource="17.jpeg"/>
 
             </Button.Background>
 
@@ -359,7 +359,7 @@
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
-                <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\18.jpeg"/>
+                <ImageBrush ImageSource="18.jpeg"/>
 
             </Button.Background>
 
@@ -378,7 +378,7 @@
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
-                <ImageBrush ImageSource="C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\Resources\20.jpg"/>
+                <ImageBrush ImageSource="20.jpg"/>
 
             </Button.Background>
 
