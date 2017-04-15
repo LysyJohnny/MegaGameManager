@@ -34,3 +34,12 @@ C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\bin\Debug\Model.
 C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\bin\Debug\ViewModel.dll
 C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\bin\Debug\Model.pdb
 C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\bin\Debug\ViewModel.pdb
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ManagerView\bin\Debug\GalaSoft.MvvmLight.Extras.xml

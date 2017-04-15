@@ -4,8 +4,10 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ManagerView"
+       xmlns:custom="clr-namespace:ViewModel;assembly=ViewModel"
         mc:Ignorable="d"
         Title="RegistartionWindow1" Height="300" Width="300">
+   
     <Grid Margin="0,0,0,-5">
 
         <Grid.Background>
@@ -25,7 +27,7 @@
             <RowDefinition Height="20"/>
         </Grid.RowDefinitions>
 
-        <Button Name="StartGame" Height="50" Click="StartGame_Click" Grid.Row="5" Margin="74,75,72,-104" Grid.ColumnSpan="2"   >
+        <Button Name="StartGame" Height="50" Click="StartGame_Click" Grid.Row="5" Margin="74,75,72,-104" Grid.ColumnSpan="2"  Command="{Binding AddNamePlayerCommand}"  >
             <TextBox Text="Поехали">
             </TextBox>
         </Button>
@@ -42,18 +44,18 @@
         </TextBox>
         <TextBox Name="Player6" Grid.Column="0" Grid.Row="5" Text="Игрок 1">
         </TextBox>
-        
-        <TextBox Name="NamePlayer1" Grid.Column="1" Grid.Row="0" >
+
+        <TextBox Name="NamePlayer1" Grid.Column="1" Grid.Row="0" Text="{Binding Path=NamePlayer}"/>
+
+        <TextBox Name="NamePlayer2" Grid.Column="1" Grid.Row="1" Text="{Binding Path=NamePlayer}" />
+
+        <TextBox Name="NamePlayer3" Grid.Column="1" Grid.Row="2" Text="{Binding Path=NamePlayer}"/>
+
+        <TextBox Name="NamePlayer4" Grid.Column="1" Grid.Row="3" Text="{Binding Path=NamePlayer}">
         </TextBox>
-        <TextBox Name="NamePlayer2" Grid.Column="1" Grid.Row="1" >
+        <TextBox Name="NamePlayer5" Grid.Column="1" Grid.Row="4" Text="{Binding Path=NamePlayer}" >
         </TextBox>
-        <TextBox Name="NamePlayer3" Grid.Column="1" Grid.Row="2" >
-        </TextBox>
-        <TextBox Name="NamePlayer4" Grid.Column="1" Grid.Row="3" >
-        </TextBox>
-        <TextBox Name="NamePlayer5" Grid.Column="1" Grid.Row="4" >
-        </TextBox>
-        <TextBox Name="NamePlayer6" Grid.Column="1" Grid.Row="5" >
+        <TextBox Name="NamePlayer6" Grid.Column="1" Grid.Row="5" Text="{Binding Path=NamePlayer}">
         </TextBox>
     </Grid>
 </Window>

@@ -5,3 +5,16 @@ C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\bin\Debug\Model.pd
 C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
 C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\obj\Debug\ViewModel.dll
 C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\ViewModel\bin\Debug\Microsoft.Practices.ServiceLocation.xml

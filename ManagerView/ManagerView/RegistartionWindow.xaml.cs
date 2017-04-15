@@ -11,6 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using ViewModel;
 
 namespace ManagerView
 {
@@ -22,6 +23,7 @@ namespace ManagerView
         public RegistartionWindow()
         {
             InitializeComponent();
+            DataContext = new Class1();
         }
 
         private void StartGame_Click(object sender, RoutedEventArgs e)
