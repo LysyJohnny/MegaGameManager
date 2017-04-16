@@ -56,7 +56,7 @@
 
         </Button>
 
-        <Button  Grid.Column="0" Grid.Row="4" Margin="0,1,0,100" Grid.RowSpan="2">
+        <Button  Grid.Column="0" Grid.Row="4" Margin="0,1,0,0" Grid.RowSpan="2" Height="101" VerticalAlignment="Top">
             <Button.ToolTip>
                 <ToolTip Height="200" Width="200">
                     <TextBox TextWrapping="Wrap"
@@ -384,7 +384,7 @@
 
 
         </Button>
-        <Button x:Name="button"  HorizontalAlignment="Left" Margin="-131,74,0,0" Grid.Row="3" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.504,1.136" Height="59" Grid.RowSpan="2" Click="button_Click">
+        <Button x:Name="button"  HorizontalAlignment="Left" Margin="-131,74,0,0" Grid.Row="3" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.504,1.136" Height="59" Grid.RowSpan="2">
             <Button.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -394,7 +394,7 @@
                 </TransformGroup>
             </Button.RenderTransform>
         </Button>
-        
+
 
     </Grid>
 </Window>

@@ -7,11 +7,12 @@
         mc:Ignorable="d"
        Title="Manager" Height="821" Width="1004">
     <Grid Margin="184,72,185,52" RenderTransformOrigin="0.495,0.493" >
-        <Button Name="Start" Click="Start_Click" >
-            <TextBox Text="Start">
+        <Button Name="Start" Click="Start_Click" Margin="10,-9,-11,10" Background="Coral" >
+            <TextBox Text="    Start" Height="85" Width="184" FontSize="50" FontFamily="Bauhaus 93" Background="Green">
             </TextBox>
 
         </Button>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="51" TextWrapping="Wrap" Text="Welcome to Manager" VerticalAlignment="Top" Width="232" Margin="212,28,0,0" FontSize="34" Background="Coral" BorderBrush="Coral" FontFamily="Haettenschweiler"/>
     </Grid>
 </Window>
 
