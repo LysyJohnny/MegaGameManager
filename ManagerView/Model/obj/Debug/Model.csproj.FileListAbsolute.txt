@@ -3,3 +3,8 @@ C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\Model\bin\Debug\Model.dll
 C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\Model\bin\Debug\Model.pdb
 C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\Model\obj\Debug\Model.dll
 C:\Users\dell\Desktop\1\MegaGameManager\ManagerView\Model\obj\Debug\Model.pdb
+C:\Users\TMOORQA\Documents\GitHub\MegaGameManager\ManagerView\Model\bin\Debug\Model.dll
+C:\Users\TMOORQA\Documents\GitHub\MegaGameManager\ManagerView\Model\bin\Debug\Model.pdb
+C:\Users\TMOORQA\Documents\GitHub\MegaGameManager\ManagerView\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\TMOORQA\Documents\GitHub\MegaGameManager\ManagerView\Model\obj\Debug\Model.dll
+C:\Users\TMOORQA\Documents\GitHub\MegaGameManager\ManagerView\Model\obj\Debug\Model.pdb

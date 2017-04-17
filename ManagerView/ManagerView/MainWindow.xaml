@@ -7,7 +7,7 @@
         mc:Ignorable="d"
        Title="Manager" Height="821" Width="1004">
     <Grid Margin="184,72,185,52" RenderTransformOrigin="0.495,0.493" >
-        <Button Name="Start" Click="Start_Click" >
+        <Button Name="Start" Click="Start_Click" Margin="0,10,0,-10" >
             <TextBox Text="Start">
             </TextBox>
 
