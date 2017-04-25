@@ -4,17 +4,30 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\Санек\Desktop\manager1\MegaGameManager\ManagerView\ManagerView\obj\Debug\
+=======
+C:\Users\Санек\Desktop\Manager\project\MegaGameManager\ManagerView\ManagerView\obj\Debug\
+>>>>>>> origin/master
 ManagerView
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 C:\Users\Санек\Desktop\manager1\MegaGameManager\ManagerView\ManagerView\App.xaml
 4-987974364
 
 12-929368617
 16-1699618084
 RulesWindow.xaml;Resources\GameWindow.xaml;MainWindow.xaml;RegistartionWindow.xaml;
+=======
+C:\Users\Санек\Desktop\Manager\project\MegaGameManager\ManagerView\ManagerView\App.xaml
+3-2019911002
+
+111632639684
+16-85416112
+Resources\GameWindow.xaml;MainWindow.xaml;RegistartionWindow.xaml;
+>>>>>>> origin/master
 
 False
 

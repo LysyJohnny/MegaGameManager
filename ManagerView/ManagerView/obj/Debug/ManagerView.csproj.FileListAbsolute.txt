@@ -64,6 +64,7 @@ C:\Users\Санек\Desktop\Manager\project\MegaGameManager\ManagerView\ManagerV
 C:\Users\Санек\Desktop\Manager\project\MegaGameManager\ManagerView\ManagerView\obj\Debug\ManagerView.g.resources
 C:\Users\Санек\Desktop\Manager\project\MegaGameManager\ManagerView\ManagerView\obj\Debug\ManagerView.Properties.Resources.resources
 C:\Users\Санек\Desktop\Manager\project\MegaGameManager\ManagerView\ManagerView\obj\Debug\ManagerView.csproj.GenerateResource.Cache
+<<<<<<< HEAD
 C:\Users\Санек\Desktop\manager1\MegaGameManager\ManagerView\ManagerView\obj\Debug\ManagerView.exe
 C:\Users\Санек\Desktop\manager1\MegaGameManager\ManagerView\ManagerView\obj\Debug\ManagerView.pdb
 C:\Users\Санек\Desktop\manager1\MegaGameManager\ManagerView\ManagerView\bin\Debug\ManagerView.exe
@@ -95,3 +96,5 @@ C:\Users\Санек\Desktop\manager1\MegaGameManager\ManagerView\ManagerView\obj
 C:\Users\Санек\Desktop\manager1\MegaGameManager\ManagerView\ManagerView\obj\Debug\ManagerView.Properties.Resources.resources
 C:\Users\Санек\Desktop\manager1\MegaGameManager\ManagerView\ManagerView\obj\Debug\ManagerView.csproj.GenerateResource.Cache
 C:\Users\Санек\Desktop\manager1\MegaGameManager\ManagerView\ManagerView\obj\Debug\RulesWindow.g.cs
+=======
+>>>>>>> origin/master
