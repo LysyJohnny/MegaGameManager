@@ -1,0 +1,31 @@
+﻿<Window x:Class="ManagerView.Rules"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ManagerView"
+      mc:Ignorable="d"
+      Title="Rules" Height="451" Width="605">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush>
+                <LinearGradientBrush.GradientStops>
+                    <GradientStop Offset="0.00" Color="Gray" />
+                    <GradientStop Offset="0.30" Color="Coral" />
+                    <GradientStop Offset="1.00" Color="Gray" />
+                </LinearGradientBrush.GradientStops>
+            </LinearGradientBrush>
+        </Grid.Background>
+        
+        <TextBlock x:Name="Rules1"  RenderTransformOrigin="0.5,0.5" >
+
+            <InlineUIContainer>
+                
+                <TextBlock TextWrapping="Wrap">
+                    <Run Text="1) Если игрок попал на собственность, никому не принадлежащую, он имеет возможность купить эту собственность в Банке по цене, указанной в клетке. Если он хочет ее купить, то платит в Банк ее стоимость, указанную на участке, и получает карточку; 2) Если игрок при бросании кубика попадает на участок, принадлежащий какому — нибудь другому игроку, владелец этого участка получает плату за наем в соответствии с ценами, указанными на карте.  3) Если игрок владеть правами собственности всех участков одного цвета. В этом случае собственник взимает плату в двойном размере с соперника, попавшем на его данную собственность.  4) Также игрок может продать свой филиал кому-нибудь из соперников  5) Игрок, имеющий 3 участка одного цвета, имеет право строить на них филиалы и предприятия. На каждом участке ставиться только одно предприятие. Необходимо иметь 3 филиала на каждом участке полной группы одного цвета, прежде чем поставить предприятие. Цена, которую он должен платить за каждый филиал или предприятие, указана внизу каждого участка и карточки;  6) Если игрок должен больше, чем он может платить, он отдает свои ценности, которыми владеет, Банку и выходит из игры – «Становится банкротом».  7) При попадании на клетку «Штраф» игрок платит штраф банку в указанном размере  8) При попадании на клетку «Подарок» игрок получает денежные средства в указанном размере."/>                   
+                </TextBlock>
+            </InlineUIContainer>
+        </TextBlock>
+        <Button x:Name="Close1" Click="Close1_Click" Content="Назад" Background="Gray" BorderBrush="Gray" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="259,307,0,0"/>
+    </Grid>
+</Window>

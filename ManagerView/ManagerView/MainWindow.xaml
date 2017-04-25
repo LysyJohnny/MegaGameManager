@@ -5,13 +5,24 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ManagerView"
         mc:Ignorable="d"
-       Title="Manager" Height="821" Width="1004">
-    <Grid Margin="184,72,185,52" RenderTransformOrigin="0.495,0.493" >
-        <Button Name="Start" Click="Start_Click" >
-            <TextBox Text="Start">
-            </TextBox>
+       Title="Manager" Height="698" Width="908">
+    <Grid Margin="0,0,2,3" RenderTransformOrigin="0.495,0.493" >
+        <Grid.Background>
+            <LinearGradientBrush>
+                <LinearGradientBrush.GradientStops>
+                    <GradientStop Offset="0.00" Color="Gray" />
+                    <GradientStop Offset="0.30" Color="Coral" />
+                    <GradientStop Offset="1.00" Color="Gray" />
+                </LinearGradientBrush.GradientStops>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBlock Name="Start" Margin="1,0,0,0"  RenderTransformOrigin="0.5,0.5" >
+        </TextBlock>
+        <TextBlock x:Name="Приветствие" HorizontalAlignment="Center" TextWrapping="Wrap" Text=" Добро пожаловать!" FontSize="28" FontFamily="Impact"  VerticalAlignment="Center" Margin="198,52,161,443" Height="66" Width="292"/>
+        <Button x:Name="Starts" Click="Starts_Click" Content="Начало игры" FontSize="20" FontFamily="Impact" HorizontalAlignment="Left" Background="Gray" VerticalAlignment="Top" Width="132" Margin="366,248,0,0" Height="54"/>
+        <Button x:Name="Rules" Click="Rules_Click" Content="Правила игры" FontSize="20" FontFamily="Impact" HorizontalAlignment="Left" Background="Gray" VerticalAlignment="Top" Width="132" Margin="366,352,0,0" Height="54"/>
+        <Button x:Name="Exit" Click="Exit_Click" Content="Выход" FontSize="20" FontFamily="Impact" HorizontalAlignment="Left" Background="Gray" VerticalAlignment="Top" Width="132" Margin="366,454,0,0" Height="54"/>
 
-        </Button>
     </Grid>
 </Window>
 

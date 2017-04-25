@@ -24,12 +24,35 @@ namespace ManagerView
         {
             InitializeComponent();
         }
+        //Теперь игра запускается кликом по другой кнопке
 
-        private void Start_Click(object sender, RoutedEventArgs e)
+        /*private void Start_Click(object sender, RoutedEventArgs e)
+        {
+          
+        }*/
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void Starts_Click(object sender, RoutedEventArgs e)
         {
             RegistartionWindow window = new RegistartionWindow();
             window.Show();
             Close();
+        }
+        private void Rules_Click(object sender, RoutedEventArgs e)
+        {
+            RulesWindow window = new RulesWindow();
+            window.Show();
+            Close();
+        }
+
+        private void Exit_Click(object sender, RoutedEventArgs e)
+        {
+            Close();
+
         }
     }
 }
