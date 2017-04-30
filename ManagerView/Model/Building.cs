@@ -14,4 +14,6 @@ namespace Model
          
         public int Shtraf { get; set; }
     }
+
+    
 }

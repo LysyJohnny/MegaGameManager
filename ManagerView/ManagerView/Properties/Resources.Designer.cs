@@ -59,5 +59,15 @@ namespace ManagerView.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _12eeb1fadde6b062c33ac4282fdaef75 {
+            get {
+                object obj = ResourceManager.GetObject("_12eeb1fadde6b062c33ac4282fdaef75", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

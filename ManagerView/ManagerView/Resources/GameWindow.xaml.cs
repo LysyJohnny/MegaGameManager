@@ -11,6 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using Model;
 
 namespace ManagerView
 {
@@ -22,13 +23,46 @@ namespace ManagerView
         public GameWindow()
         {
             InitializeComponent();
+            
         }
-
+        int step = 1;
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            
-            Random Go = new Random() ;
-            Go.Next(0,7);
+            Random Go = new Random();
+            Cube.Text = Go.Next(0, 7).ToString();
+           
+           
+             
+            if (step % 2 == 1)
+
+            {
+                // MoveFishkaToStep(Go.Next(0,7));
+                //выполняется функция хода для игрока т.к. игрок ходит первым и его ходы нечетные
+            }
+
+            else
+            {// функция для компа}
+                step++;
+            }
+        }
+
+        Player Computer = new Player { Name = "Компьютер ходит", Money = 20000 };
+        public void ComputerStep()
+        {
+
+        }
+
+        Player player = new Player { Name = "Ваш ход", Money = 20000 };
+
+        public void PlayerStep()
+        {
+           
+        }
+
+        
+        public void MoveFishkaToStep(int steps, Ellipse Fishka)
+        {
+           // Fishka.MoveFocus
         }
     }
 }

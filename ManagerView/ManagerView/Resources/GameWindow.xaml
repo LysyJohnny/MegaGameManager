@@ -43,12 +43,10 @@
             </Button.Background>
 
             <Button.ToolTip>
-                <ToolTip Height="200" Width="200">
-                    <TextBox TextWrapping="Wrap"
-                             Text="Стоимость МАГАЗИНА ОДЕЖДЫ BERSHKA составляет 2200 рублей.
-                             Штраф для соперников составляет 220 рублей.
-                             При повторном попадании сумма штрафа увеличивается на 60 рублей">
-                    </TextBox>
+                <ToolTip Height="200" Width="200" Background="#90004455">
+                    <StackPanel>
+                        <TextBlock Margin="3" TextWrapping="Wrap" Foreground="White">Стоимость МАГАЗИНА ОДЕЖДЫ BERSHKA составляет 2200 рублей. Штраф для соперников составляет 220 рублей. При повторном попадании сумма штрафа увеличивается на 60 рублей</TextBlock>
+                    </StackPanel>
                 </ToolTip>
             </Button.ToolTip>
 
@@ -58,12 +56,10 @@
 
         <Button  Grid.Column="0" Grid.Row="4" Margin="0,1,0,100" Grid.RowSpan="2">
             <Button.ToolTip>
-                <ToolTip Height="200" Width="200">
-                    <TextBox TextWrapping="Wrap"
-                             Text="Стоимость СТОЛОВОЙ ГОРОЖАНИН соствляет 2500 рублей.
-                             Штраф для соперников составляет 250 рублей.
-                             При повторном попадании сумма штрафа увеличивается на 80 рублей">
-                    </TextBox>
+                <ToolTip Height="200" Width="200" Background="#90004455">
+                    <StackPanel>
+                        <TextBlock Margin="3" TextWrapping="Wrap" Foreground="White">"Стоимость СТОЛОВОЙ ГОРОЖАНИН соствляет 2500 рублей. Штраф для соперников составляет 250 рублей. При повторном попадании сумма штрафа увеличивается на 80 рублей</TextBlock>
+                    </StackPanel>
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
@@ -75,13 +71,10 @@
 
         <Button Name="AppleStore" Grid.Column="0" Grid.ColumnSpan="1" Grid.Row="3" Grid.RowSpan="1" >
             <Button.ToolTip>
-                <ToolTip Height="200" Width="200">
-                    <TextBox TextWrapping="Wrap"
-                             Text="Стоимость МАГАЗИНА APPLESTORE составляет 6000 рублей.
-                             Штраф для соперников составляет 600 рублей.
-                             При повторном попадании сумма штрафа увеличивается на 350 рублей">
-
-                    </TextBox>
+                <ToolTip Height="200" Width="200" Background="#90004455">
+                    <StackPanel>
+                        <TextBlock Margin="3" TextWrapping="Wrap" Foreground="White">"Стоимость МАГАЗИНА APPLESTORE составляет 6000 рублей.Штраф для соперников составляет 600 рублей.При повторном попадании сумма штрафа увеличивается на 350 рублей</TextBlock>
+                    </StackPanel>
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
@@ -94,13 +87,10 @@
 
         <Button Name="Красавчик" Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2" Grid.RowSpan="1" Margin="1,0,100,0">
             <Button.ToolTip>
-                <ToolTip Height="200" Width="200">
-                    <TextBox TextWrapping="Wrap"
-                             Text="Стоимость МАГАЗИНА КРАСАВЧИК составляет 2700 рублей.
-                             Штраф для соперников составляет 270 рублей.
-                             При повторном попадании сумма штрафа увеличивается на 90 рублей">
-
-                    </TextBox>
+                <ToolTip Height="200" Width="200" Background="#90004455">
+                    <StackPanel>
+                        <TextBlock Margin="3" TextWrapping="Wrap" Foreground="White">"Стоимость МАГАЗИНА КРАСАВЧИК составляет 2700 рублей.Штраф для соперников составляет 270 рублей.При повторном попадании сумма штрафа увеличивается на 90 рублей.</TextBlock>
+                    </StackPanel>
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
@@ -113,10 +103,10 @@
 
         <Button Name="Штраф" Grid.Column="0" Grid.Row="1">
             <Button.ToolTip>
-                <ToolTip Height="200" Width="200">
-                    <TextBox TextWrapping="Wrap"
-                             Text="С ВАС ВЗЫМАЕТСЯ ШТРАФ В РАЗМЕРЕ 5000 РУБЛЕЙ">
-                    </TextBox>
+                <ToolTip Height="200" Width="200" Background="#90004455">
+                    <StackPanel>
+                        <TextBlock Margin="3" TextWrapping="Wrap" Foreground="White">"С ВАС ВЗЫМАЕТСЯ ШТРАФ В РАЗМЕРЕ 5000 РУБЛЕЙ.</TextBlock>
+                    </StackPanel>
                 </ToolTip>
             </Button.ToolTip>
 
@@ -130,12 +120,10 @@
 
         <Button Name="Colizei" Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="2" Margin="1,0,100,0" Grid.RowSpan="2" >
             <Button.ToolTip >
-                <ToolTip Height="200" Width="200">
-                    <TextBox TextWrapping="Wrap"
-                                Text="Стоимость СПОРТЗАЛА КОЛИЗЕЙ составляет 3000 рублей.
-                                     Штраф для соперников составляет 300 рублей.
-                                     При повторном попадании сумма штрафа увеличивается на 100 рублей">
-                    </TextBox>
+                <ToolTip Height="200" Width="200" Background="#90004455">
+                    <StackPanel>
+                        <TextBlock Margin="3" TextWrapping="Wrap" Foreground="White">"Стоимость СПОРТЗАЛА КОЛИЗЕЙ составляет 3000 рублей.Штраф для соперников составляет 300 рублей.При повторном попадании сумма штрафа увеличивается на 100 рублей.</TextBlock>
+                    </StackPanel>
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
@@ -148,12 +136,10 @@
 
         <Button Name="ЧитайГород" Grid.Column="2" Grid.Row="0" Grid.ColumnSpan="2" Margin="1,0,100,0" Grid.RowSpan="2" >
             <Button.ToolTip>
-                <ToolTip Height="200" Width="200">
-                    <TextBox TextWrapping="Wrap"
-                         Text="Стоимость ЧИТАЙ ГОРОДА составляет 3000 рублей.
-                         Штраф для соперников составляет 300 рублей.
-                         При повторном попадании штраф увеличивается на 100 рублей">
-                    </TextBox>
+                <ToolTip Height="200" Width="200" Background="#90004455">
+                    <StackPanel>
+                        <TextBlock Margin="3" TextWrapping="Wrap" Foreground="White">"Стоимость ЧИТАЙ ГОРОДА составляет 3000 рублей. Штраф для соперников составляет 300 рублей. При повторном попадании штраф увеличивается на 100 рублей."</TextBlock>
+                    </StackPanel>
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
@@ -166,12 +152,10 @@
 
         <Button Name="GreenHouse" Grid.Column="3" Grid.Row="0" Grid.ColumnSpan="2" Margin="1,0,100,0" Grid.RowSpan="2">
             <Button.ToolTip>
-                <ToolTip Height="200" Width="200">
-                    <TextBox TextWrapping="Wrap"
-                             Text="Стоимость КОФЕЙНИ GREEN HOUSE составляет 3500 рублей.
-                             Штраф для соперников составляет 350 рублей.
-                             При повторном попадании сумма штрафа увеличивается на 180 рублей.">
-                    </TextBox>
+                <ToolTip Height="200" Width="200" Background="#90004455">
+                    <StackPanel>
+                        <TextBlock Margin="3" TextWrapping="Wrap" Foreground="White">"Стоимость КОФЕЙНИ GREEN HOUSE составляет 3500 рублей. Штраф для соперников составляет 350 рублей. При повторном попадании сумма штрафа увеличивается на 180 рублей."</TextBlock>
+                    </StackPanel>
                 </ToolTip>
             </Button.ToolTip>
 
@@ -185,12 +169,10 @@
 
         <Button Name="Командор" Grid.Column="4" Grid.ColumnSpan="2" Margin="1,0,100,0" Grid.RowSpan="2">
             <Button.ToolTip>
-                <ToolTip Height="200" Width="200">
-                    <TextBox TextWrapping="Wrap"
-                             Text="Стоимость СУПЕРМАРКЕТА КОМАНДОР составляет 4000 рублей.
-                             Штраф для соперников составляет 400 рублей.
-                             При повторном попадании сумма штрафа увеличивается на 200 рублей.">
-                    </TextBox>
+                <ToolTip Height="200" Width="200" Background="#90004455">
+                    <StackPanel>
+                        <TextBlock Margin="3" TextWrapping="Wrap" Foreground="White">"Стоимость СУПЕРМАРКЕТА КОМАНДОР составляет 4000 рублей. Штраф для соперников составляет 400 рублей. При повторном попадании сумма штрафа увеличивается на 200 рублей."</TextBlock>
+                    </StackPanel>
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
@@ -203,10 +185,10 @@
 
         <Button Name="Премия" Grid.Column="5" Grid.ColumnSpan="2" Margin="1,0,0,0" Grid.Row="0" Grid.RowSpan="2" >
             <Button.ToolTip>
-                <ToolTip Height="200" Width="200">
-                    <TextBox TextWrapping="Wrap"
-                             Text="Поздравляем! Вам начислена премия в размере 6000 рублей.">
-                    </TextBox>
+                <ToolTip Height="200" Width="200" Background="#90004455">
+                    <StackPanel>
+                        <TextBlock Margin="3" TextWrapping="Wrap" Foreground="White">"Поздравляем! Вам начислена премия в размере 6000 рублей."</TextBlock>
+                    </StackPanel>
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
@@ -219,13 +201,10 @@
 
         <Button Name="КинотеатрЛуч" Grid.Column="5" Grid.ColumnSpan="2" Margin="1,0,-1,0" Grid.Row="2" Grid.RowSpan="1">
             <Button.ToolTip>
-                <ToolTip Height="200" Width="200">
-                    <TextBox TextWrapping="Wrap"
-                             Text="Стоимость КИНОТЕАТРА ЛУЧ составляет 3750 рублей.
-                             Штраф для соперников составляет 380 рублейю
-                             При повторном попадании сумма штрафа увеличивается на 190 рублей">
-
-                    </TextBox>
+                <ToolTip Height="200" Width="200" Background="#90004455">
+                    <StackPanel>
+                        <TextBlock Margin="3" TextWrapping="Wrap" Foreground="White">"Стоимость КИНОТЕАТРА ЛУЧ составляет 3750 рублей. Штраф для соперников составляет 380 рублей. При повторном попадании сумма штрафа увеличивается на 190 рублей "</TextBlock>
+                    </StackPanel>
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
@@ -237,13 +216,10 @@
 
         <Button Name="МВидео" Grid.Column="5" Grid.Row="3" Margin="1,0,-1,0" >
             <Button.ToolTip>
-                <ToolTip Height="200" Width="200">
-                    <TextBox TextWrapping="Wrap"
-                             Text="Стоимость предприятия МАГАЗИН ЭЛЕКТРОНИКИ МВИДЕО составляет 4200 рублей.
-                             Штраф для соперников составляет 420 рублей.
-                             При повторном попадании сумма штрафа увеличивается на 220">
-
-                    </TextBox>
+                <ToolTip Height="200" Width="200" Background="#90004455">
+                    <StackPanel>
+                        <TextBlock Margin="3" TextWrapping="Wrap" Foreground="White">"Стоимость предприятия МАГАЗИН ЭЛЕКТРОНИКИ МВИДЕО составляет 4200 рублей. Штраф для соперников составляет 420 рублей. При повторном попадании сумма штрафа увеличивается на 220."</TextBlock>
+                    </StackPanel>
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
@@ -256,13 +232,10 @@
 
         <Button Name="Перцы" Grid.Column="5" Grid.Row="4" Margin="1,0,-1,0" >
             <Button.ToolTip>
-                <ToolTip Height="200" Width="200">
-                    <TextBox TextWrapping="Wrap"
-                             Text="Стоимость ресторана перцы составляет 4300.
-                             Штраф для соперников составляет 430. 
-                             При повторном попадании сумма штрафа увеличивается на 240">
-                    </TextBox>
-
+                <ToolTip Height="200" Width="200" Background="#90004455">
+                    <StackPanel>
+                        <TextBlock Margin="3" TextWrapping="Wrap" Foreground="White">"Стоимость ресторана перцы составляет 4300. Штраф для соперников составляет 430. При повторном попадании сумма штрафа увеличивается на 240."</TextBlock>
+                    </StackPanel>
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
@@ -275,12 +248,10 @@
 
         <Button Name="ДвадцатьПятьЧасов" Grid.Column="5" Grid.Row="5"  Margin="1,0,-1,0" >
             <Button.ToolTip>
-                <ToolTip Height="200" Width="200">
-                    <TextBox TextWrapping="Wrap"
-                             Text="Стоимость заправки АЗС 25 часов составляет 4500 рублей.
-                             Штраф для соперников составляет 450 рублей.
-                             При повторном попадании сумма штрафа увеличивается на 250 рублей.">
-                    </TextBox>
+                <ToolTip Height="200" Width="200" Background="#90004455">
+                    <StackPanel>
+                        <TextBlock Margin="3" TextWrapping="Wrap" Foreground="White">"Стоимость заправки АЗС 25 часов составляет 4500 рублей. Штраф для соперников составляет 450 рублей. При повторном попадании сумма штрафа увеличивается на 250 рублей."</TextBlock>
+                    </StackPanel>
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
@@ -293,11 +264,10 @@
 
         <Button Name="Штраф1" Grid.Column="5" Grid.Row="6" Margin="0,0,0,-9" >
             <Button.ToolTip>
-                <ToolTip Height="200" Width="200">
-                    <TextBox TextWrapping="Wrap"
-                             Text="С ВАС ВЗЫМАЕТСЯ ШТРАФ В РАЗМЕРЕ 5000 РУБЛЕЙ">
-
-                    </TextBox>
+                <ToolTip Height="200" Width="200" Background="#90004455">
+                    <StackPanel>
+                        <TextBlock Margin="3" TextWrapping="Wrap" Foreground="White">"С ВАС ВЗЫМАЕТСЯ ШТРАФ В РАЗМЕРЕ 5000 РУБЛЕЙ."</TextBlock>
+                    </StackPanel>
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
@@ -310,13 +280,10 @@
 
         <Button Name="ФанпаркБобровыйЛог" Grid.Column="4" Grid.Row="6" Margin="0,0,100,-9" Grid.ColumnSpan="2" >
             <Button.ToolTip>
-                <ToolTip Height="200" Width="200">
-                    <TextBox TextWrapping="Wrap"
-                             Text="Стоимость Фанпарка Бобровый Лог составляет 5000 рублей.
-                             Штраф для соперников 500 рублей.
-                             При повторном попадании сумма штрафа увеличивается на 300 рублей">
-                    </TextBox>
-
+                <ToolTip Height="200" Width="200" Background="#90004455">
+                    <StackPanel>
+                        <TextBlock Margin="3" TextWrapping="Wrap" Foreground="White">"Стоимость Фанпарка Бобровый Лог составляет 5000 рублей. Штраф для соперников 500 рублей. При повторном попадании сумма штрафа увеличивается на 300 рублей."</TextBlock>
+                    </StackPanel>
                 </ToolTip>
             </Button.ToolTip>
 
@@ -330,14 +297,10 @@
 
         <Button Name="KFC"  Grid.Column="3" Grid.ColumnSpan="1" Margin="0,0,0,-8" Grid.Row="6" Grid.RowSpan="2" >
             <Button.ToolTip>
-                <ToolTip Height="200" Width="100">
-                    <TextBox TextWrapping="Wrap"
-                             Text="СТоимость ресторана быстрого питания KSC составляет 5500 рублей.
-                             Штраф для соперников составляет 550 рублей.
-                             При повторном попадании сумма штрафа увеличивается на 300 рублей">
-
-                    </TextBox>
-
+                <ToolTip Height="200" Width="200" Background="#90004455">
+                    <StackPanel>
+                        <TextBlock Margin="3" TextWrapping="Wrap" Foreground="White">"СТоимость ресторана быстрого питания KFC составляет 5500 рублей. Штраф для соперников составляет 550 рублей. При повторном попадании сумма штрафа увеличивается на 300 рублей"."</TextBlock>
+                    </StackPanel>
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
@@ -349,13 +312,10 @@
 
         <Button Name="ОтельNovotel" Grid.Column="2" Grid.ColumnSpan="2" Grid.Row="6" Margin="0,0,100,-9">
             <Button.ToolTip>
-                <ToolTip Height="200" Width="100">
-                    <TextBox TextWrapping="Wrap"
-                             Text="Стоимость Отеля Novotel составляет 5800 рублей.
-                             Штраф для соперников составляет 580 рублей.
-                             При повторном попадании сумма штрафа увеличивается на 330 рублей">
-
-                    </TextBox>
+                <ToolTip Height="200" Width="200" Background="#90004455">
+                    <StackPanel>
+                        <TextBlock Margin="3" TextWrapping="Wrap" Foreground="White">"Стоимость Отеля Novotel составляет 5800 рублей. Штраф для соперников составляет 580 рублей. При повторном попадании сумма штрафа увеличивается на 330 рублей."</TextBlock>
+                    </StackPanel>
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
@@ -368,13 +328,10 @@
 
         <Button Name="TimeToVape" Grid.Column="1" Grid.Row="6" Margin="0,0,0,-8">
             <Button.ToolTip>
-                <ToolTip Height="200" Width="200">
-                    <TextBox TextWrapping="Wrap"
-                             Text="Стоимость МАГАЗИНА TIME TO VAPE составляет 4000 рублей.
-                             Штраф для соперников составляет 400 рублей.
-                             При повторном попадании сумма штрафа увеличивается на 200 рублей.">
-
-                    </TextBox>
+                <ToolTip Height="200" Width="200" Background="#90004455">
+                    <StackPanel>
+                        <TextBlock Margin="3" TextWrapping="Wrap" Foreground="White">"Стоимость МАГАЗИНА TIME TO VAPE составляет 4000 рублей. Штраф для соперников составляет 400 рублей. При повторном попадании сумма штрафа увеличивается на 200 рублей."</TextBlock>
+                    </StackPanel>
                 </ToolTip>
             </Button.ToolTip>
             <Button.Background>
@@ -384,7 +341,7 @@
 
 
         </Button>
-        <Button x:Name="button"  HorizontalAlignment="Left" Margin="-131,74,0,0" Grid.Row="3" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.504,1.136" Height="59" Grid.RowSpan="2" Click="button_Click">
+        <Button x:Name="button"  HorizontalAlignment="Left" Margin="-163,97,0,0" Grid.Row="3" VerticalAlignment="Top" Width="117" RenderTransformOrigin="0.504,1.136" Height="94" Grid.RowSpan="2" Click="button_Click">
             <Button.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -393,8 +350,37 @@
                     <TranslateTransform X="0.188" Y="-0.002"/>
                 </TransformGroup>
             </Button.RenderTransform>
+            <Button.Background>
+                <ImageBrush ImageSource="12eeb1fadde6b062c33ac4282fdaef75.png"/>
+            </Button.Background>
         </Button>
-        
+        <TextBox x:Name="Cube" HorizontalAlignment="Left" TextAlignment="Center" FontSize="40" FontFamily="Bauhaus 93" Height="65" Margin="-162,17,0,0" Grid.Row="3" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="111"/>
+        <Ellipse x:Name="ComputerFishka" Grid.Column="5" HorizontalAlignment="Left" Height="100" Margin="154,17,-153,0" Grid.Row="3" Grid.RowSpan="2" Stroke="Black" VerticalAlignment="Top" Width="100">
+            <Ellipse.Fill>
+                <RadialGradientBrush 
+      GradientOrigin="0.5,0.5" Center="0.5,0.5" 
+      RadiusX="0.5" RadiusY="0.5">
+                    <GradientStop Color="Green" Offset="0" />
+                    <GradientStop Color="Yellow" Offset="0.25" />
+                    <GradientStop Color="Blue" Offset="0.75" />
+                    <GradientStop Color="Violet" Offset="1" />
+                </RadialGradientBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+        <Ellipse  x:Name="PlayerFishka" Grid.Column="5" HorizontalAlignment="Left" Height="100" Margin="154,39,-153,0" Grid.Row="4" Grid.RowSpan="2" Stroke="Black" VerticalAlignment="Top" Width="100">
+            <Ellipse.Fill>
+                <RadialGradientBrush 
+      GradientOrigin="0.5,0.5" Center="0.5,0.5" 
+      RadiusX="0.5" RadiusY="0.5">
+                    <GradientStop Color="Yellow" Offset="0" />
+                    <GradientStop Color="Red" Offset="0.25" />
+                    <GradientStop Color="Blue" Offset="0.75" />
+                    <GradientStop Color="LimeGreen" Offset="1" />
+                </RadialGradientBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+
+
 
     </Grid>
 </Window>

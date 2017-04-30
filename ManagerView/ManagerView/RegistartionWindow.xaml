@@ -5,9 +5,18 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ManagerView"
         mc:Ignorable="d"
-        Title="RegistartionWindow1" Height="300" Width="320.667">
-    <Grid Margin="0,0,-4,-5" >
-        
+        Title="RegistartionWindow1" Height="562.5" Width="719.667">
+    <Grid Margin="0,0,0,-5" >
+
+        <Grid.Background>
+            <LinearGradientBrush>
+                <LinearGradientBrush.GradientStops>
+                    <GradientStop Offset="0.00" Color="Gray" />
+                    <GradientStop Offset="0.30" Color="Coral" />
+                    <GradientStop Offset="1.00" Color="Gray" />
+                </LinearGradientBrush.GradientStops>
+            </LinearGradientBrush>
+        </Grid.Background>
         <Grid.ColumnDefinitions>
             <ColumnDefinition />
             <ColumnDefinition />
@@ -17,22 +26,13 @@
             <RowDefinition Height="20"/>
 
         </Grid.RowDefinitions>
-        <Grid.Background>
-            <LinearGradientBrush>
-                <LinearGradientBrush.GradientStops>
-                <GradientStop Offset="0.00" Color="Gray" />
-                <GradientStop Offset="0.30" Color="Coral" />
-                <GradientStop Offset="1.00" Color="Gray" />
-            </LinearGradientBrush.GradientStops>
-            </LinearGradientBrush>
-        </Grid.Background>
 
-        <Button Name="StartGame" Click="StartGame_Click" Grid.Row="0" Margin="78,120,78,-158" Grid.ColumnSpan="2" Background="Beige" Content="Поехали" />
+        <Button Name="StartGame" Click="StartGame_Click" Grid.Row="0" Margin="78,120,78,-228" Grid.ColumnSpan="2" FontSize="40" FontFamily="Constantia" Background="Beige" Content="Поехали" />
 
-        <TextBlock Name="Player1" Grid.Column="0" Padding="5px" Margin="0,31,0,-42" Grid.Row="0" Text="Игрок" Background="AliceBlue" FontFamily="Century" FontSize="15px" TextAlignment="Center">
+        <TextBlock Name="Player1" Grid.Column="0" Padding="5px" Margin="0,31,0,-68" Grid.Row="0"  Text="Игрок" Background="AliceBlue" FontFamily="Century" FontSize="35px" TextAlignment="Center">
         </TextBlock>
 
-        <TextBox Name="NamePlayer1" Grid.Column="1" Padding="5px" Grid.Row="0" Background="AliceBlue" FontFamily="Century" TextAlignment="Center" FontSize="15px" Margin="0,31,0,-42">
+        <TextBox x:Name="NamePlayer1" Grid.Column="1" Padding="5px" Grid.Row="0" Background="AliceBlue" FontFamily="Century" TextAlignment="Center" FontSize="35px" Margin="0,31,0,-68">
 
             <TextBox.ToolTip>
                 <ToolTip Background="#90004455">

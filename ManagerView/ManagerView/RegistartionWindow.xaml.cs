@@ -11,6 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using Model;
 
 namespace ManagerView
 {
@@ -19,15 +20,22 @@ namespace ManagerView
     /// </summary>
     public partial class RegistartionWindow : Window
     {
+
+        public string PlayerName = null;
+
         public RegistartionWindow()
         {
             InitializeComponent();
         }
 
-        private void StartGame_Click(object sender, RoutedEventArgs e)
+     
+
+        public void StartGame_Click(object sender, RoutedEventArgs e)
         {
             GameWindow win = new GameWindow();
             win.Show();
+            PlayerName = NamePlayer1.Text.ToString();
+            
         }
     }
 }
