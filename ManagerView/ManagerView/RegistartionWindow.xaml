@@ -7,16 +7,7 @@
         mc:Ignorable="d"
         Title="RegistartionWindow1" Height="300" Width="320.667">
     <Grid Margin="0,0,-4,-5" >
-
-        <Grid.Background>
-            <LinearGradientBrush>
-                <LinearGradientBrush.GradientStops>
-                    <GradientStop Offset="0.00" Color="Gray" />
-                    <GradientStop Offset="0.30" Color="Coral" />
-                    <GradientStop Offset="1.00" Color="Gray" />
-                </LinearGradientBrush.GradientStops>
-            </LinearGradientBrush>
-        </Grid.Background>
+        
         <Grid.ColumnDefinitions>
             <ColumnDefinition />
             <ColumnDefinition />
@@ -26,6 +17,15 @@
             <RowDefinition Height="20"/>
 
         </Grid.RowDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush>
+                <LinearGradientBrush.GradientStops>
+                <GradientStop Offset="0.00" Color="Gray" />
+                <GradientStop Offset="0.30" Color="Coral" />
+                <GradientStop Offset="1.00" Color="Gray" />
+            </LinearGradientBrush.GradientStops>
+            </LinearGradientBrush>
+        </Grid.Background>
 
         <Button Name="StartGame" Click="StartGame_Click" Grid.Row="0" Margin="78,120,78,-158" Grid.ColumnSpan="2" Background="Beige" Content="Поехали" />
 

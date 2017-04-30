@@ -59,15 +59,5 @@ namespace ManagerView.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ahkmAI {
-            get {
-                object obj = ResourceManager.GetObject("ahkmAI", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }
